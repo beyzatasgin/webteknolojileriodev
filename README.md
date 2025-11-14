@@ -141,24 +141,8 @@ webteknolojileriodev/
 
 Proje görselleri için GitHub repository'sini ziyaret edebilirsiniz.
 
-## 🔒 Güvenlik Notları
-
-- Form validasyonu hem client-side (JavaScript) hem de server-side (PHP) yapılmıştır
-- Hassas bilgiler için güvenlik önlemleri alınmıştır
-
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## 🤝 Katkıda Bulunma
 
-Bu bir öğrenci projesidir. Sorularınız veya önerileriniz için issue açabilirsiniz.
-
-## 📞 İletişim
-
-- **GitHub:** [@beyzatasgin](https://github.com/beyzatasgin)
-- **Repository:** [webteknolojileriodev](https://github.com/beyzatasgin/webteknolojileriodev)
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
