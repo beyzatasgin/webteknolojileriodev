@@ -1,27 +1,26 @@
-# 🌐 Web Teknolojileri Dersi - Kişisel Web Sitesi Projesi
+# Web Teknolojileri Dersi - Kişisel Web Sitesi Projesi
 
 > 2022-2023 Bahar Dönemi Web Teknolojileri Dersi kapsamında geliştirilmiş kişisel web sitesi projesi.
 
-## 📋 Proje Hakkında
+##  Proje Hakkında
 
 Bu proje, memleketimi ve kendimi tanıtan kişisel bir web sitesidir. Modern web teknolojileri kullanılarak geliştirilmiş, responsive tasarıma sahip ve kullanıcı dostu bir arayüze sahiptir.
 
-## 👤 Proje Bilgileri
+## Proje Bilgileri
 
 - **Öğrenci Adı:** Beyza Taşğın
 - **Öğrenci Numarası:** G221210018
 - **Ders:** Web Teknolojileri
 - **Dönem:** 2022-2023 Bahar Dönemi
-- **GitHub Profili:** [@beyzatasgin](https://github.com/beyzatasgin)
 
-## 🎯 Proje Amacı
+##  Proje Amacı
 
 - Memleketimi ve kendimi tanıtan profesyonel bir web sitesi oluşturmak
 - Modern web teknolojileri (HTML, CSS, JavaScript, PHP, Bootstrap) kullanarak dinamik bir web sitesi geliştirmek
 - Responsive tasarım prensiplerini uygulamak
 - Kullanıcı etkileşimli formlar ve sayfalar oluşturmak
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **HTML5** - Yapısal içerik
 - **CSS3** - Stil ve tasarım
@@ -30,48 +29,48 @@ Bu proje, memleketimi ve kendimi tanıtan kişisel bir web sitesidir. Modern web
 - **Bootstrap 5** - Responsive framework
 - **Font Awesome** - İkon kütüphanesi
 
-## 📄 Proje İçeriği
+##  Proje İçeriği
 
 ### Sayfalar
 
-1. **🏠 Ana Sayfa (index.html)**
+1. **Ana Sayfa (index.html)**
    - Karşılama sayfası
    - Navigasyon menüsü
    - Genel bilgiler
 
-2. **👤 Hakkında (hakkında.html)**
+2. **Hakkında (hakkında.html)**
    - Kişisel tanıtım sayfası
    - Hakkımda bilgileri
 
-3. **📝 Özgeçmiş (ozgecmis.html)**
+3. **Özgeçmiş (ozgecmis.html)**
    - Eğitim bilgileri
    - Akademik geçmiş
    - Deneyimler
 
-4. **🏛️ Şehrim (sehrim.html)**
+4. **Şehrim (sehrim.html)**
    - Memleket hakkında bilgiler
    - Şehir tanıtımı
    - Görseller
 
-5. **🏺 Mirasım (mirasım.html)**
+5. **Mirasım (mirasım.html)**
    - Kültürel miraslar
    - Tarihi değerler
    - Şehre özgü özellikler
 
-6. **🎯 İlgi Alanlarım (ilgialanlarım.html)**
+6. **İlgi Alanlarım (ilgialanlarım.html)**
    - Hobiler ve ilgi alanları
    - Fotoğraflar ve açıklamalar
 
-7. **🔐 Giriş (login.html)**
+7. **Giriş (login.html)**
    - Kullanıcı giriş formu
    - PHP ile backend entegrasyonu
 
-8. **📧 İletişim (iletisim.html)**
+8. **İletişim (iletisim.html)**
    - İletişim formu
    - Form validasyonu
    - PHP ile form işleme
 
-## 🚀 Kurulum ve Kullanım
+##  Kurulum ve Kullanım
 
 ### Gereksinimler
 
@@ -100,7 +99,7 @@ Bu proje, memleketimi ve kendimi tanıtan kişisel bir web sitesidir. Modern web
 
 PHP form işleme için gerekli. `login.php` ve `iletisimdonus.php` dosyalarının çalışması için PHP desteği aktif olmalıdır.
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 webteknolojileriodev/
@@ -126,23 +125,20 @@ webteknolojileriodev/
     └── *.webp
 ```
 
-## ✨ Özellikler
+##  Özellikler
 
-- ✅ Responsive tasarım (mobil uyumlu)
-- ✅ Modern ve kullanıcı dostu arayüz
-- ✅ Bootstrap 5 ile grid sistemi
-- ✅ Font Awesome ikonları
-- ✅ PHP ile form işleme
-- ✅ JavaScript ile interaktif özellikler
-- ✅ Çok sayfalı navigasyon
-- ✅ Görsel galeri
+- Responsive tasarım (mobil uyumlu)
+-  Modern ve kullanıcı dostu arayüz
+-  Bootstrap 5 ile grid sistemi
+-  Font Awesome ikonları
+-  PHP ile form işleme
+-  JavaScript ile interaktif özellikler
+-  Çok sayfalı navigasyon
+-  Görsel galeri
 
-## 📸 Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 Proje görselleri için GitHub repository'sini ziyaret edebilirsiniz.
 
-## 📝 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
 
 
